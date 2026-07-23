@@ -1,0 +1,64 @@
+# Applied Intuition
+
+> Physical AI that Moves the World.
+
+Applied Intuition builds physical AI software and systems for intelligent machines. The company helps customers develop, test, validate, deploy, and operate autonomy and vehicle intelligence across automotive, defense, trucking, mining, construction, and agriculture. Core areas include self-driving systems, vehicle operating systems, simulation, validation, data workflows, and frontier research in autonomy and robotics.
+
+## Core company pages
+
+- [Home](https://www.appliedintuition.com/) - Company overview and top-level entry point for Applied Intuition
+- [About](https://www.appliedintuition.com/about) - Mission, leadership, global presence, and company background
+- [Research](https://www.appliedintuition.com/research) - Applied Intuition research in physical AI, autonomy, and robotics
+- [Case Studies](https://www.appliedintuition.com/case-studies) - Customer stories across automotive, trucking, defense, and more
+- [News & Insights](https://www.appliedintuition.com/autonomy-news) - Central hub for blog posts, research, press releases, engineering, and media coverage
+
+## Products
+
+- [Self-Driving System](https://www.appliedintuition.com/applied-autonomy) - Unified autonomy stack for land, air, and sea systems
+- [Vehicle OS](https://www.appliedintuition.com/applied-os) - Unified operating system for intelligent machines
+- [Tools for Vehicle Intelligence](https://www.appliedintuition.com/physical-ai) - Platform for simulation, validation, data, training, and evaluation workflows
+
+## Industries
+
+- [Automotive](https://www.appliedintuition.com/autonomous-vehicles) - ADAS, automated driving, simulation, and validation for automotive teams
+- [Defense](https://www.appliedintuition.com/defense-tech) - Defense autonomy, mission systems, and AI-enabled operational capability
+- [Trucking](https://www.appliedintuition.com/autonomous-trucking) - Autonomous trucking development and fleet-scale deployment
+- [Mining](https://www.appliedintuition.com/mining-fleet-management-system) - Mining autonomy, fleet intelligence, and safety validation
+- [Construction](https://www.appliedintuition.com/autonomous-construction-equipment) - Construction robotics, operator intelligence, and machine automation
+- [Agriculture](https://www.appliedintuition.com/agricultural-automation) - Agricultural automation and precision autonomy systems
+
+## Customer stories
+
+- [AISIN Partners](https://www.appliedintuition.com/case-studies/aisin-partners) - Automotive case study
+- [Isuzu Advancing Autonomous Trucking in Japan](https://www.appliedintuition.com/case-studies/isuzu) - Trucking case study
+- [Scientific Systems](https://www.appliedintuition.com/case-studies/scientific-systems) - Defense and maritime simulation case study
+- [Toyota](https://www.appliedintuition.com/case-studies/toyota) - Automotive case study
+- [May Mobility](https://www.appliedintuition.com/case-studies/may-mobility) - Autonomous vehicle case study
+
+## Research and technical work
+
+- [Research hub](https://www.appliedintuition.com/research) - Research overview, papers, projects, and team
+- [How Applied Intuition Brings World Foundation Models from Research to Reality](https://www.appliedintuition.com/engineering-blog/world-foundation-models-from-research-to-reality) - Engineering post · 2026-06
+- [NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning](https://www.appliedintuition.com/research-blog/nord-data-efficient-vla-driving) - Research post · 2026-06
+- [RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space](https://www.appliedintuition.com/research-blog/raynova-4d-world-foundation-model) - Research post · 2026-05
+- [How Quality Metrics Reduced AEB Resimulation Failures from 73% to 3%](https://www.appliedintuition.com/engineering-blog/quality-metrics-reduce-aeb-resimulation-failures) - Engineering post · 2026-04
+- [How Applied Intuition’s SDS Uses ADP to Supercharge Active Safety Development](https://www.appliedintuition.com/engineering-blog/applied-intuition-uses-adp-supercharge-safety) - Engineering post · 2026-03
+
+## News and updates
+
+- [News & Insights hub](https://www.appliedintuition.com/autonomy-news) - Latest company news, blog posts, case studies, research, and engineering content
+- [Blog archive](https://www.appliedintuition.com/blog) - Blog posts on vehicle software, autonomy, and physical AI
+- [Research archive](https://www.appliedintuition.com/research-blog) - Research-related articles and updates
+- [Engineering archive](https://www.appliedintuition.com/engineering-blog) - Engineering articles and technical deep dives
+- [Media coverage](https://www.appliedintuition.com/media-coverage) - Earned media and external coverage
+- [Press releases](https://www.appliedintuition.com/press-releases) - Company press announcements
+- [The Road Has Already Told Us Where It’s Dangerous.  Are We Listening?](https://www.appliedintuition.com/blog/crash-data-av-safety-testing) - Blog post · 2026-07
+- [Nissan Showcases What AI-Defined Vehicle Development Looks Like](https://www.appliedintuition.com/blog/nissan-applied-intuition-aws-summit-japan) - Blog post · 2026-06
+- [The Future Belongs to Builders](https://www.appliedintuition.com/blog/qasar-younis-kettering-commencement-2026) - Blog post · 2026-06
+- [How Do Autonomous Haul Trucks ‘See’? The Sensor Stack Behind Applied Intuition’s SDS](https://www.appliedintuition.com/blog/autonomous-haul-truck-sensor-stack) - Blog post · 2026-06
+- [Inside Intersect Japan: Physical AI, Built for Japan](https://www.appliedintuition.com/blog/intersect-japan-2026) - Blog post · 2026-06
+
+## Optional
+
+- [Careers](https://www.appliedintuition.com/careers) - Hiring and open roles
+- [Contact](https://www.appliedintuition.com/contact) - Product inquiries, demos, and general contact
