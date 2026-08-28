@@ -9,6 +9,17 @@ description: 'Applied Intuition builds physical AI software and systems for inte
   and evaluation workflows. The company operates as a private enterprise vendor and
   does not currently publish a public developer API or self-service portal; this profile
   captures its public identity, security posture, and machine-readable llms.txt.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
