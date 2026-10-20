@@ -38,11 +38,11 @@ Applied Intuition builds physical AI software and systems for intelligent machin
 ## Research and technical work
 
 - [Research hub](https://www.appliedintuition.com/research) - Research overview, papers, projects, and team
+- [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](https://www.appliedintuition.com/research-blog/label-free-autonomy-pretraining) - Research post · 2026-08
+- [Hiring Engineers for the Age of Agents](https://www.appliedintuition.com/engineering-blog/hiring-engineers-age-of-agents) - Engineering post · 2026-07
 - [How Applied Intuition Brings World Foundation Models from Research to Reality](https://www.appliedintuition.com/engineering-blog/world-foundation-models-from-research-to-reality) - Engineering post · 2026-06
 - [NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning](https://www.appliedintuition.com/research-blog/nord-data-efficient-vla-driving) - Research post · 2026-06
 - [RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space](https://www.appliedintuition.com/research-blog/raynova-4d-world-foundation-model) - Research post · 2026-05
-- [How Quality Metrics Reduced AEB Resimulation Failures from 73% to 3%](https://www.appliedintuition.com/engineering-blog/quality-metrics-reduce-aeb-resimulation-failures) - Engineering post · 2026-04
-- [How Applied Intuition’s SDS Uses ADP to Supercharge Active Safety Development](https://www.appliedintuition.com/engineering-blog/applied-intuition-uses-adp-supercharge-safety) - Engineering post · 2026-03
 
 ## News and updates
 
@@ -52,11 +52,11 @@ Applied Intuition builds physical AI software and systems for intelligent machin
 - [Engineering archive](https://www.appliedintuition.com/engineering-blog) - Engineering articles and technical deep dives
 - [Media coverage](https://www.appliedintuition.com/media-coverage) - Earned media and external coverage
 - [Press releases](https://www.appliedintuition.com/press-releases) - Company press announcements
-- [The Road Has Already Told Us Where It’s Dangerous.  Are We Listening?](https://www.appliedintuition.com/blog/crash-data-av-safety-testing) - Blog post · 2026-07
-- [Nissan Showcases What AI-Defined Vehicle Development Looks Like](https://www.appliedintuition.com/blog/nissan-applied-intuition-aws-summit-japan) - Blog post · 2026-06
-- [The Future Belongs to Builders](https://www.appliedintuition.com/blog/qasar-younis-kettering-commencement-2026) - Blog post · 2026-06
-- [How Do Autonomous Haul Trucks ‘See’? The Sensor Stack Behind Applied Intuition’s SDS](https://www.appliedintuition.com/blog/autonomous-haul-truck-sensor-stack) - Blog post · 2026-06
-- [Inside Intersect Japan: Physical AI, Built for Japan](https://www.appliedintuition.com/blog/intersect-japan-2026) - Blog post · 2026-06
+- [Applied Intuition Partners with Honda  to Accelerate Software-Defined Vehicle Development](https://www.appliedintuition.com/blog/honda-applied-intuition-sdv-platform) - Blog post · 2026-10
+- [Applied Intuition Partners with Honda to Accelerate Next-Generation Software-Defined Vehicles](https://www.appliedintuition.com/press-releases/applied-intuition-honda-sdv-partnership) - Press release · 2026-10
+- [Applied Intuition and Nissan Drive the Future of AI-Defined Vehicle Development](https://www.appliedintuition.com/blog/nissan-applied-intuition-ai-defined-vehicles) - Blog post · 2026-10
+- [Applied Intuition Announces Collaboration with Nissan to Provide AI-Native Development Platform and Support AI-Defined Vehicle Development ](https://www.appliedintuition.com/press-releases/applied-intuition-nissan-aidv-development) - Press release · 2026-10
+- [Echelon and Applied Intuition Partner to Scale Physical AI Across Saudi Arabia](https://www.appliedintuition.com/press-releases/echelon-applied-intuition-physical-ai-saudi-arabia) - Press release · 2026-09
 
 ## Optional
 

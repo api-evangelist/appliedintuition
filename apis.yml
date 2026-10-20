@@ -1,14 +1,9 @@
 aid: appliedintuition
+
 name: Applied Intuition
-description: 'Applied Intuition builds physical AI software and systems for intelligent
-  machines, helping customers develop, test, validate, deploy, and operate autonomy
-  and vehicle intelligence across automotive, defense, trucking, mining, construction,
-  and agriculture. Its product lines include a Self-Driving System (a unified autonomy
-  stack for land, air, and sea), Vehicle OS (an operating system for intelligent machines),
-  and Tools for Vehicle Intelligence covering simulation, validation, data, training,
-  and evaluation workflows. The company operates as a private enterprise vendor and
-  does not currently publish a public developer API or self-service portal; this profile
-  captures its public identity, security posture, and machine-readable llms.txt.'
+
+description: Applied Intuition builds physical AI software and systems for intelligent machines, helping customers develop, test, validate, deploy, and operate autonomy and vehicle intelligence across automotive, defense, trucking, mining, construction, and agriculture. Its product lines include a Self-Driving System (a unified autonomy stack for land, air, and sea), Vehicle OS (an operating system for intelligent machines), and Tools for Vehicle Intelligence covering simulation, validation, data, training, and evaluation workflows. The company operates as a private enterprise vendor and does not currently publish a public developer API or self-service portal; this profile captures its public identity, security posture, and machine-readable llms.txt.
+
 deliveryModel:
   model: saas
   open_source: false
@@ -20,6 +15,7 @@ deliveryModel:
   - pricing
   generated: '2026-08-28'
   method: derived
+
 accessModel:
   pricing: unknown
   onboarding: unknown
@@ -31,17 +27,28 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+
 image: https://cdn.sanity.io/images/a86leg7v/production/7e96db00d9bd9a6aa41194e2b8dbae2d8af500dd-1200x630.png?w=1200&h=630
+
 url: https://raw.githubusercontent.com/api-evangelist/appliedintuition/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: vc-portfolio
+
 x-backed-by:
 - bond-capital
-x-tier: stub
-x-tier-reason: portfolio-lead
+
+x-tier: profiled
+
+x-tier-reason: enrichment pass 2026-10-20 (local-v5; was portfolio-lead)
+
 specificationVersion: '0.23'
+
 created: '2026-07-17'
-modified: '2026-07-17'
+
+modified: '2026-10-20'
+
 tags:
 - Company
 - Autonomy
@@ -50,13 +57,22 @@ tags:
 - Simulation
 - Defense
 - Robotics
-apis: []
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Compliance
+  url: https://www.appliedintuition.com/security
+- type: Hosts
+  url: hosts/appliedintuition-hosts.yml
+- type: Vendors
+  url: vendors/appliedintuition-vendors.yml
+- type: TrustCenter
+  url: security/appliedintuition-trust-center.yml
 - type: Website
   url: https://appliedintuition.com
 - type: About
@@ -79,8 +95,24 @@ common:
   url: https://www.appliedintuition.com/terms-and-conditions
 - type: PrivacyPolicy
   url: https://www.appliedintuition.com/privacy-policy
+
+apis: []
+
 x-enrichment:
-  date: '2026-07-19'
-  status: backfilled
-  pass: local-v1
-  note: backfilled from .gitignore signal + verified work evidence
+  date: '2026-10-20'
+  status: minimal
+  artifacts_added: 5
+  pass: local-v5
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  detail: Applied Intuition sells autonomy and simulation software to enterprise and defense customers through sales contact only; no api/docs/developer host resolves and its GitHub org holds only forks of third-party projects.
+  evidence:
+  - url: https://www.appliedintuition.com/
+    status: 200
+  - url: https://www.appliedintuition.com/contact
+    status: 200
+  - url: https://api.appliedintuition.com/
+    status: 0
+  checked: '2026-10-20'

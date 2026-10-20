@@ -1,0 +1,13 @@
+generated: '2026-10-20'
+method: searched
+probe: true
+source: https://www.appliedintuition.com/security
+url: https://www.appliedintuition.com/security
+certifications:
+- SOC 2
+- ISO 27001
+evidence:
+- source: https://www.appliedintuition.com/security
+  keywords:
+  - soc 2
+  - iso/iec 27001

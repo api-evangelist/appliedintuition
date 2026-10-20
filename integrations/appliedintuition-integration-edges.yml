@@ -1,0 +1,18 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/appliedintuition/integrations
+- https://zapier.com/apps/applied-intuition/integrations
+- https://n8n.io/integrations/appliedintuition/
+- https://composio.dev/toolkits/appliedintuition
+- https://monid.ai/tools/appliedintuition
+checked:
+- https://composio.dev/toolkits/appliedintuition
+- https://monid.ai/tools/appliedintuition
+- https://n8n.io/integrations/appliedintuition/
+- https://zapier.com/apps/applied-intuition/integrations
+- https://zapier.com/apps/appliedintuition/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
